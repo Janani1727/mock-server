@@ -1,5 +1,60 @@
 {
-  "abcd":[]
+  "users": [],
+  "hotels": [
+    {
+      "category": "Family",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQStPjEmGXOXvN5SBFfcET4KscA0V1OiS2zHHLHvV4l&s",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "3",
+      "cost": "5000",
+      "booked": true,
+      "id": 1
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5syQXTQ-Br4KzEiB6mEZALRsAFHW3ttAHVCRQtBQCtPRTurFwBY3MR4DFjmyYJMAN8Vk&usqp=CAU",
+      "type_of_room": "Non AC",
+      "bed_type": "Double",
+      "no_of_persons": "3",
+      "capacity": "4",
+      "cost": "8000",
+      "booked": false,
+      "id": 2
+    },
+    {
+      "category": "Suite",
+      "image_url": "https://media.cntraveler.com/photos/56799015c2ebbef23e7d927b/16:9/w_1280,c_limit/Hotelroom-Alamy.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": "5",
+      "capacity": "6",
+      "cost": "10000",
+      "booked": true,
+      "id": 3
+    },
+    {
+      "category": "Family",
+      "image_url": "https://images.unsplash.com/photo-1576354302919-96748cb8299e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=329&q=80",
+      "type_of_room": "nonAC",
+      "bed_type": "Single",
+      "no_of_persons": "1",
+      "capacity": "2",
+      "cost": "3500",
+      "booked": false,
+      "id": 4
+    },
+    {
+      "category": "Deluxe",
+      "image_url": "https://media.istockphoto.com/id/1453121641/photo/modern-hotel-room-with-double-bed-night-tables-and-day-sofa-bed.jpg?b=1&s=170667a&w=0&k=20&c=pstYXidRJG_Sn9mtuJ9-NUf-AbxLfNvgtTVn8DiyTiQ=",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "8",
+      "capacity": "10",
+      "cost": "25000",
+      "booked": false,
+      "id": 5
+    }
+  ]
 }
-
-
