@@ -56,5 +56,8 @@
       "booked": false,
       "id": 5
     }
-  ]
+  ],
+
+  "movieUser" :[],
+  "movies":[]
 }
