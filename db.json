@@ -1,8 +1,64 @@
-{
+
   
-"users":[],
-
-
-"tracker":[]
-
+{
+  "user": [
+    {
+      "name": "janani",
+      "level": "easy",
+      "id": 1
+    },
+    {
+      "name": "Janani1727",
+      "level": "medium",
+      "id": 2
+    },
+    {
+      "name": "chittu",
+      "level": "hard",
+      "id": 3
+    },
+    {
+      "name": "bujji",
+      "level": "easy",
+      "id": 4
+    },
+    {
+      "name": "bujji",
+      "level": "medium",
+      "id": 5
+    },
+    {
+      "name": "jairam",
+      "level": "medium",
+      "id": 6
+    },
+    {
+      "name": "geetha",
+      "level": "hard",
+      "id": 7
+    },
+    {
+      "name": "harish",
+      "level": "easy",
+      "id": 9
+    },
+    {
+      "name": "geetha",
+      "level": "medium",
+      "id": 10
+    },
+    {
+      "name": "Janani Jayaraman",
+      "level": "easy",
+      "id": 12
+    },
+    {
+      "name": "",
+      "level": "",
+      "id": 13
+    }
+  ]
 }
+
+
+
